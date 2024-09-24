@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "575469670531",
+    "project_id": "socailmediaapp-c1fd4",
+    "storage_bucket": "socailmediaapp-c1fd4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575469670531:android:d4ed8611ed5e8958b34bb6",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDptlDcINVGHHeVr128SO9AsqJ5fAqK3qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
